@@ -1,4 +1,4 @@
-import { IsString, IsBoolean, IsNotEmpty, IsNumber } from "class-validator";
+                               import { IsString, IsBoolean, IsNotEmpty, IsNumber } from "class-validator";
 
 export class createActivitieDto{
     @IsString()
